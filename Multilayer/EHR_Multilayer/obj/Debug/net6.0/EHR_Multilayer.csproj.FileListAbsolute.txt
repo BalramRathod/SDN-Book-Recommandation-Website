@@ -1,0 +1,1073 @@
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.Development.json
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.json
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.exe
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.deps.json
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.runtimeconfig.json
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.pdb
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Core.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Identity.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Dapper.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Humanizer.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MailKit.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.Core.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MimeKit.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.CodeDom.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Memory.Data.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Json.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Twilio.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.AssemblyReference.cache
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfoInputs.cache
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfo.cs
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CoreCompileInputs.cache
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cache
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.EHR_Multilayer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.build.EHR_Multilayer.props
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EHR_Multilayer.props
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EHR_Multilayer.props
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.build.json
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.development.json
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\scopedcss\bundle\EHR_Multilayer.styles.css
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CopyComplete
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\refint\EHR_Multilayer.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.pdb
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.genruntimeconfig.cache
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\obj\Debug\net6.0\ref\EHR_Multilayer.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.Development.json
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.json
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.exe
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.deps.json
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.runtimeconfig.json
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.pdb
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Core.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Identity.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Dapper.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Humanizer.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MailKit.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.Core.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MimeKit.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.CodeDom.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Json.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Twilio.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.AssemblyReference.cache
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfoInputs.cache
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfo.cs
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CoreCompileInputs.cache
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cs
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cache
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.EHR_Multilayer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.build.EHR_Multilayer.props
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EHR_Multilayer.props
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EHR_Multilayer.props
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.build.json
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.development.json
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\scopedcss\bundle\EHR_Multilayer.styles.css
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CopyComplete
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\refint\EHR_Multilayer.dll
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.pdb
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.genruntimeconfig.cache
+D:\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\ref\EHR_Multilayer.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.Development.json
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.json
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.exe
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.deps.json
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.runtimeconfig.json
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.pdb
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Core.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Identity.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Dapper.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Humanizer.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MailKit.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.Core.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MimeKit.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.CodeDom.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Memory.Data.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Json.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Twilio.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.AssemblyReference.cache
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfoInputs.cache
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfo.cs
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CoreCompileInputs.cache
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cs
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cache
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.EHR_Multilayer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.build.EHR_Multilayer.props
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EHR_Multilayer.props
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EHR_Multilayer.props
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.pack.json
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.build.json
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.development.json
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\scopedcss\bundle\EHR_Multilayer.styles.css
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CopyComplete
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\refint\EHR_Multilayer.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.pdb
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.genruntimeconfig.cache
+D:\2023\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\ref\EHR_Multilayer.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.Development.json
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.json
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.exe
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.deps.json
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.runtimeconfig.json
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.pdb
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Core.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Identity.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Dapper.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Humanizer.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MailKit.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.Core.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MimeKit.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Stripe.net.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.CodeDom.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Json.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Twilio.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.AssemblyReference.cache
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfoInputs.cache
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfo.cs
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CoreCompileInputs.cache
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cs
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cache
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.EHR_Multilayer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.build.EHR_Multilayer.props
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EHR_Multilayer.props
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EHR_Multilayer.props
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.build.json
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.development.json
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\scopedcss\bundle\EHR_Multilayer.styles.css
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CopyComplete
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\refint\EHR_Multilayer.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.pdb
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.genruntimeconfig.cache
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\ref\EHR_Multilayer.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.staticwebassets.runtime.json
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.Development.json
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.json
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.staticwebassets.runtime.json
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.exe
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.deps.json
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.runtimeconfig.json
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.pdb
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Core.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Identity.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Dapper.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Humanizer.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MailKit.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.Core.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MimeKit.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Stripe.net.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.CodeDom.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Memory.Data.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Json.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Twilio.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.AssemblyReference.cache
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfoInputs.cache
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfo.cs
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CoreCompileInputs.cache
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cs
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cache
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.EHR_Multilayer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.build.EHR_Multilayer.props
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EHR_Multilayer.props
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EHR_Multilayer.props
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.build.json
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.development.json
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\scopedcss\bundle\EHR_Multilayer.styles.css
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CopyComplete
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\refint\EHR_Multilayer.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.pdb
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.genruntimeconfig.cache
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\ref\EHR_Multilayer.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.AssemblyReference.cache
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfoInputs.cache
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfo.cs
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CoreCompileInputs.cache
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.json
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.staticwebassets.runtime.json
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.exe
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.deps.json
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.runtimeconfig.json
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.pdb
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Dapper.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MailKit.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Stripe.net.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Twilio.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.EHR_Multilayer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.build.EHR_Multilayer.props
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EHR_Multilayer.props
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EHR_Multilayer.props
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\scopedcss\bundle\EHR_Multilayer.styles.css
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CopyComplete
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\refint\EHR_Multilayer.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.pdb
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.genruntimeconfig.cache
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\ref\EHR_Multilayer.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.Development.json
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.json
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.staticwebassets.runtime.json
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.exe
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.deps.json
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.runtimeconfig.json
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Core.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Identity.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Dapper.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Humanizer.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MailKit.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.Core.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MimeKit.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Stripe.net.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.CodeDom.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Memory.Data.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Json.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Twilio.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.AssemblyReference.cache
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfoInputs.cache
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfo.cs
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CoreCompileInputs.cache
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cs
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cache
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.EHR_Multilayer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.build.EHR_Multilayer.props
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EHR_Multilayer.props
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EHR_Multilayer.props
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.build.json
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.development.json
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\scopedcss\bundle\EHR_Multilayer.styles.css
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CopyComplete
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\refint\EHR_Multilayer.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.genruntimeconfig.cache
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\ref\EHR_Multilayer.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.Development.json
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.json
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.staticwebassets.runtime.json
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.exe
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.deps.json
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.runtimeconfig.json
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.pdb
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Core.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Identity.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Dapper.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Humanizer.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MailKit.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.Core.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MimeKit.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Stripe.net.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.CodeDom.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Memory.Data.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Json.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Twilio.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.AssemblyReference.cache
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfoInputs.cache
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfo.cs
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CoreCompileInputs.cache
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cs
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cache
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.EHR_Multilayer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.build.EHR_Multilayer.props
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EHR_Multilayer.props
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EHR_Multilayer.props
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.pack.json
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.build.json
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.development.json
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\scopedcss\bundle\EHR_Multilayer.styles.css
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CopyComplete
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\refint\EHR_Multilayer.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.pdb
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.genruntimeconfig.cache
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\ref\EHR_Multilayer.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.Development.json
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.json
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.staticwebassets.runtime.json
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.exe
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.deps.json
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.runtimeconfig.json
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Core.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Identity.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Dapper.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Humanizer.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MailKit.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.Core.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MimeKit.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Stripe.net.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.CodeDom.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Memory.Data.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Json.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Twilio.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.AssemblyReference.cache
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfoInputs.cache
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfo.cs
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CoreCompileInputs.cache
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cs
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cache
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.EHR_Multilayer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.build.EHR_Multilayer.props
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EHR_Multilayer.props
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EHR_Multilayer.props
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.build.json
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.development.json
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\scopedcss\bundle\EHR_Multilayer.styles.css
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CopyComplete
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\refint\EHR_Multilayer.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.genruntimeconfig.cache
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer\obj\Debug\net6.0\ref\EHR_Multilayer.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.Development.json
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\appsettings.json
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.staticwebassets.runtime.json
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.exe
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.deps.json
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.runtimeconfig.json
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.pdb
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Core.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Azure.Identity.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Dapper.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Humanizer.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MailKit.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mapster.Core.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\MimeKit.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Stripe.net.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.CodeDom.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Memory.Data.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Text.Json.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\Twilio.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.AssemblyReference.cache
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfoInputs.cache
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.AssemblyInfo.cs
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CoreCompileInputs.cache
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cs
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.MvcApplicationPartsAssemblyInfo.cache
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.EHR_Multilayer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.build.EHR_Multilayer.props
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EHR_Multilayer.props
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EHR_Multilayer.props
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.pack.json
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.build.json
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\staticwebassets.development.json
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\scopedcss\bundle\EHR_Multilayer.styles.css
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.csproj.CopyComplete
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\refint\EHR_Multilayer.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.pdb
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\EHR_Multilayer.genruntimeconfig.cache
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer\obj\Debug\net6.0\ref\EHR_Multilayer.dll

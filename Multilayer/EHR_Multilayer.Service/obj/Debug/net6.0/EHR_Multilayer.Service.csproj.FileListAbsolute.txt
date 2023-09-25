@@ -1,0 +1,210 @@
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.deps.json
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.runtimeconfig.json
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.AssemblyReference.cache
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfoInputs.cache
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfo.cs
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CoreCompileInputs.cache
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\refint\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.genruntimeconfig.cache
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\ref\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\DAYUsers\BalramRathod\Official\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CopyComplete
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.deps.json
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.runtimeconfig.json
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.AssemblyReference.cache
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfoInputs.cache
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfo.cs
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CoreCompileInputs.cache
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CopyComplete
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\refint\EHR_Multilayer.Service.dll
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.genruntimeconfig.cache
+D:\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\ref\EHR_Multilayer.Service.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.deps.json
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.runtimeconfig.json
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.AssemblyReference.cache
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfoInputs.cache
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfo.cs
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CoreCompileInputs.cache
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CopyComplete
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\refint\EHR_Multilayer.Service.dll
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.genruntimeconfig.cache
+D:\2023\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\ref\EHR_Multilayer.Service.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.deps.json
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.runtimeconfig.json
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.AssemblyReference.cache
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfoInputs.cache
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfo.cs
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CoreCompileInputs.cache
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CopyComplete
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\refint\EHR_Multilayer.Service.dll
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.genruntimeconfig.cache
+D:\Final Assessment 23\EHR-Application\Multilayer\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\ref\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.deps.json
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.runtimeconfig.json
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.AssemblyReference.cache
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfoInputs.cache
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfo.cs
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CoreCompileInputs.cache
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CopyComplete
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\refint\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.genruntimeconfig.cache
+D:\DAYUsers\BalramRathod\Official\EHR_Multilayer_Folder\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\ref\EHR_Multilayer.Service.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.AssemblyReference.cache
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfoInputs.cache
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfo.cs
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CoreCompileInputs.cache
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.deps.json
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.runtimeconfig.json
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CopyComplete
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\refint\EHR_Multilayer.Service.dll
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.pdb
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.genruntimeconfig.cache
+C:\Users\Ram\Downloads\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\ref\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.deps.json
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.runtimeconfig.json
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.AssemblyReference.cache
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfoInputs.cache
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfo.cs
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CoreCompileInputs.cache
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CopyComplete
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\refint\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.genruntimeconfig.cache
+D:\DAYUsers\BalramRathod\NewBookApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\ref\EHR_Multilayer.Service.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.deps.json
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.runtimeconfig.json
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.AssemblyReference.cache
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfoInputs.cache
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfo.cs
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CoreCompileInputs.cache
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CopyComplete
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\refint\EHR_Multilayer.Service.dll
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.genruntimeconfig.cache
+D:\BookRecommandationApp\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\ref\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.deps.json
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.runtimeconfig.json
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.AssemblyReference.cache
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfoInputs.cache
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfo.cs
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CoreCompileInputs.cache
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CopyComplete
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\refint\EHR_Multilayer.Service.dll
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.genruntimeconfig.cache
+D:\DAYUsers\BalramRathod\NewBookApp\BookRecommandation\Multilayer\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\ref\EHR_Multilayer.Service.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.deps.json
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.runtimeconfig.json
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Domain.pdb
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.Repository.pdb
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\bin\Debug\net6.0\EHR_Multilayer.ViewModel.pdb
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.AssemblyReference.cache
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfoInputs.cache
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.AssemblyInfo.cs
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CoreCompileInputs.cache
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.csproj.CopyComplete
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\refint\EHR_Multilayer.Service.dll
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.pdb
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\EHR_Multilayer.Service.genruntimeconfig.cache
+D:\NewBookApp\BookApp\Multilayer\EHR_Multilayer.Service\obj\Debug\net6.0\ref\EHR_Multilayer.Service.dll

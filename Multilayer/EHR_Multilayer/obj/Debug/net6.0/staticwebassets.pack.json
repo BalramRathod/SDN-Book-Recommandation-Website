@@ -1,0 +1,181 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\1.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\1.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\12.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\12.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\13.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\13.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\2.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\2.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\21.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\21.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\22.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\22.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\23.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\23.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\24.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\24.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\25.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\25.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\26.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\26.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\27.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\27.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\28.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\28.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\29.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\29.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\3.png",
+      "PackagePath": "staticwebassets\\BookImage\\3.png"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\30.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\30.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\31.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\31.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\32.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\32.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\33.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\33.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\34.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\34.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\35.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\35.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\36.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\36.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\37.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\37.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\38.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\38.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\4.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\4.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\BookImage\\8.jpg",
+      "PackagePath": "staticwebassets\\BookImage\\8.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\Profile\\1BalramIMg.jpeg.jpeg",
+      "PackagePath": "staticwebassets\\Profile\\1BalramIMg.jpeg.jpeg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\Profile\\1WhatsApp Image 2022-11-21 at 4.17.30 PM.jpeg.jpeg",
+      "PackagePath": "staticwebassets\\Profile\\1WhatsApp Image 2022-11-21 at 4.17.30 PM.jpeg.jpeg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\Profile\\1flower.jpg.jpg",
+      "PackagePath": "staticwebassets\\Profile\\1flower.jpg.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\Profile\\1men11.jpg.jpg",
+      "PackagePath": "staticwebassets\\Profile\\1men11.jpg.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\Profile\\1tiger.jpg.jpg",
+      "PackagePath": "staticwebassets\\Profile\\1tiger.jpg.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\Profile\\2Hanuan.jpg.jpg",
+      "PackagePath": "staticwebassets\\Profile\\2Hanuan.jpg.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\Profile\\2Screenshot (201).png.png",
+      "PackagePath": "staticwebassets\\Profile\\2Screenshot (201).png.png"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\Profile\\2download.jpg.jpg",
+      "PackagePath": "staticwebassets\\Profile\\2download.jpg.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\Profile\\2flower.jpg.jpg",
+      "PackagePath": "staticwebassets\\Profile\\2flower.jpg.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\Profile\\2men11.jpg.jpg",
+      "PackagePath": "staticwebassets\\Profile\\2men11.jpg.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\Profile\\3balram-img.jpeg.jpeg",
+      "PackagePath": "staticwebassets\\Profile\\3balram-img.jpeg.jpeg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\Profile\\3download.jpg.jpg",
+      "PackagePath": "staticwebassets\\Profile\\3download.jpg.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\Profile\\3flower.jpg.jpg",
+      "PackagePath": "staticwebassets\\Profile\\3flower.jpg.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\Profile\\4tiger.jpg.jpg",
+      "PackagePath": "staticwebassets\\Profile\\4tiger.jpg.jpg"
+    },
+    {
+      "Id": "D:\\NewBookApp\\BookApp\\Multilayer\\EHR_Multilayer\\wwwroot\\Profile\\5638168967185062960.jpg.jpg",
+      "PackagePath": "staticwebassets\\Profile\\5638168967185062960.jpg.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EHR_Multilayer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EHR_Multilayer.props",
+      "PackagePath": "build\\EHR_Multilayer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EHR_Multilayer.props",
+      "PackagePath": "buildMultiTargeting\\EHR_Multilayer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EHR_Multilayer.props",
+      "PackagePath": "buildTransitive\\EHR_Multilayer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

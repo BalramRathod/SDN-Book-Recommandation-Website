@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EHR_Multilayer", "EHR_Multilayer.csproj", "{78053C0A-18B7-4984-99E6-106B7E00A969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EHR_Multilayer.Domain", "..\EHR_Multilayer.Domain\EHR_Multilayer.Domain.csproj", "{2BF4E11D-8950-4288-981B-EDDDABEDC41F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EHR_Multilayer.Repository", "..\EHR_Multilayer.Repository\EHR_Multilayer.Repository.csproj", "{043B9117-C2DE-46A7-8680-07C9820A60EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EHR_Multilayer.Service", "..\EHR_Multilayer.Service\EHR_Multilayer.Service.csproj", "{841D19D2-DBBA-4094-9A70-9980B5B0712D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EHR_Multilayer.ViewModel", "..\EHR_Multilayer.ViewModel\EHR_Multilayer.ViewModel.csproj", "{5C498761-3AF6-4698-A850-E56F889A343C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78053C0A-18B7-4984-99E6-106B7E00A969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78053C0A-18B7-4984-99E6-106B7E00A969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78053C0A-18B7-4984-99E6-106B7E00A969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78053C0A-18B7-4984-99E6-106B7E00A969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF4E11D-8950-4288-981B-EDDDABEDC41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF4E11D-8950-4288-981B-EDDDABEDC41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF4E11D-8950-4288-981B-EDDDABEDC41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF4E11D-8950-4288-981B-EDDDABEDC41F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043B9117-C2DE-46A7-8680-07C9820A60EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043B9117-C2DE-46A7-8680-07C9820A60EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043B9117-C2DE-46A7-8680-07C9820A60EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043B9117-C2DE-46A7-8680-07C9820A60EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{841D19D2-DBBA-4094-9A70-9980B5B0712D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841D19D2-DBBA-4094-9A70-9980B5B0712D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841D19D2-DBBA-4094-9A70-9980B5B0712D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841D19D2-DBBA-4094-9A70-9980B5B0712D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C498761-3AF6-4698-A850-E56F889A343C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C498761-3AF6-4698-A850-E56F889A343C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C498761-3AF6-4698-A850-E56F889A343C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C498761-3AF6-4698-A850-E56F889A343C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7255F026-DC1C-46EF-8A37-FECD21DD35EC}
+	EndGlobalSection
+EndGlobal
